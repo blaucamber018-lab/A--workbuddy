@@ -108,3 +108,4 @@ REPORT_OUT_DIR=./output python scripts/build_bview_final.py 2026-10-09
 - 允许商用、修改、再分发，但需保留版权与许可证声明；
 - 修改文件须标注变更；
 - 详见根目录 `LICENSE` 全文。
+<img width="1920" height="10587" alt="A股市场情绪日报_BVIEW_20261012" src="https://github.com/user-attachments/assets/52327a15-1c56-42ec-9f2d-7f8fb06739ac" />
