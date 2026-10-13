@@ -1,0 +1,22 @@
+# ===== 运行时生成数据（脚本在输出目录自动生成，勿提交） =====
+market_data_*.json
+
+# ===== Python 字节码 / 缓存 =====
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# ===== 备份 / 临时 / 日志 =====
+*.bak
+*.bak.html
+*.log
+*.tmp
+
+# ===== 编辑器 / 操作系统 =====
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
